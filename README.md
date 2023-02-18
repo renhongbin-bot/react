@@ -16,10 +16,11 @@ my-app-umi-max: umi-max.js学习笔记<br>
 ```
 cd my-app
 ```
-
+下载资源：
 ```
 npm i
 ```
+启动项目：
 ```
 npm run start
 ```

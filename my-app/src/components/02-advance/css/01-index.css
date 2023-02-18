@@ -1,0 +1,9 @@
+.active {
+  background-color: skyblue;
+}
+#myapp {
+  background-color: bisque;
+}
+.hidden {
+  display: none;
+}

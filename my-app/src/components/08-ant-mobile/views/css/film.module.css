@@ -1,0 +1,18 @@
+.click-active {
+    border-bottom: 1px solid pink;
+    color: skyblue;
+}
+
+.film ul li {
+    list-style: none;
+}
+
+.content {
+    height: 120px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    user-select: none;
+}

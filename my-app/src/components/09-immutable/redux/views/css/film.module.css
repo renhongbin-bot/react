@@ -1,0 +1,7 @@
+.click-active {
+    border-bottom: 1px solid pink;
+    color: skyblue;
+}
+.film ul li {
+    list-style: none;
+}
